@@ -9,7 +9,7 @@ A bunch of small apps made with react to learn functionality of each features in
 **4. Adding product to Product List :** Using Flux, React-Router and Form Handling(Using Formik and Yup)  
 **5. Product List :** Using JSON Server and React Hooks  
 **6. Adding product to Product List :** Using Redux, React-Redux, React-Router and Form Handling(Using Formik and Yup) and HOCs(Higher Order Components)  
-**7. Testing :** Writing test cases for "2. Product List" using Jest and Enzyme  
+**7. Testing :** Writing test cases for ***"2. Product List"*** using Jest and Enzyme  
 **8. A complete Product Inventory Management App :** using Functional Components, React Hooks, Redux, Formik, Yup and JSON Server  
 
 # Installation Steps :
