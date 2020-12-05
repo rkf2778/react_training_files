@@ -18,6 +18,6 @@ A bunch of small apps made with react to learn functionality of each features in
 1. Unzip each file
 2. Open the terminal
 3. After navigating to that folder in the terminal, run the command
-> npm install
-4.After the installation is complete, type the command to start the App :
+> npm install  
+4.After the installation is complete, type the command to start the App :  
 > npm start
