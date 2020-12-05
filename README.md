@@ -25,3 +25,4 @@ npm install
 ```javascript
 npm start
 ```
+5. Open **http://localhost:3000/** or the PORT you have set, to view the application
